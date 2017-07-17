@@ -1,0 +1,6 @@
+This is a router, It checks for the packet destination address and routes the packet to a closent interface
+The router got your Packet Information, Destination is on a network linked to this router.
+The destination address is on interface 127.2.2.2/4
+Exit to that interface to Deliver the Packet
+A synchronization was sent to the destination host.
+GoodLuck.

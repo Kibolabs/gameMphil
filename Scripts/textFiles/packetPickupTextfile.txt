@@ -1,0 +1,5 @@
+You have a packet now
+you need toturn on tcp/IP by powering up it
+the tcp/ip dataset contains 40byte datagram 
+you have need 40byte worth of to activate TCP/IP devices on network
+lets begin each collectible is worth 10byte and will add one unit to charging the powehouse.
